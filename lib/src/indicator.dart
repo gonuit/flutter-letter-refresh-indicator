@@ -61,7 +61,7 @@ class LetterIndicator extends StatelessWidget {
           ),
           if (data.value >= 1)
             Container(
-              padding: EdgeInsets.only(right: 100),
+              padding: const EdgeInsets.only(right: 100),
               child: Transform.scale(
                 scale: data.value,
                 child: Opacity(

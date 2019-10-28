@@ -1,0 +1,19 @@
+name: letter_refresh_indicator
+description: Flutter letter indicator widget.
+version: 0.1.0
+author: Kamil Klyta <kamilklyta341@gmail.com>
+repository: https://github.com/gonuit/flutter_letter_refresh_indicator
+issue_tracker: https://github.com/gonuit/flutter_letter_refresh_indicator/issues
+homepage: https://github.com/gonuit/flutter_letter_refresh_indicator
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  custom_refresh_indicator: 0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

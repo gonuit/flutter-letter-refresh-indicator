@@ -4,6 +4,13 @@ Flutter Letter Refresh Indicator widget build on top of the [`custom_refresh_ind
 
 ## Example
 
+### GIF:
+
+![Letter Refresh Indicator](res/letter_indicator.gif)
+
+
+### Code
+
 ```dart
 class MyList extends StatelessWidget {
   
